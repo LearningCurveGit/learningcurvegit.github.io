@@ -1,5 +1,5 @@
 /public
 resources/
 node_modules/
-#package-lock.json
+#package-lock.json --bug na action Setup Node https://github.com/actions/setup-node/issues/624#issuecomment-1847059593
 .hugo_build.lock
