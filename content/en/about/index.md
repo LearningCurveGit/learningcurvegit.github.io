@@ -6,7 +6,7 @@ menu: {main: {weight: 10}}
 
 {{% blocks/cover title="About Goldydocs" image_anchor="bottom" height="auto" %}}
 
-A sample site using the Docsy Hugo theme.
+A sample site using the Docsy Hugo theme. Teste pasemes
 {.mt-5}
 
 {{% /blocks/cover %}}
