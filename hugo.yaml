@@ -1,4 +1,4 @@
-baseURL: https://learningcurvegit.github.io/
+#baseURL: https://learningcurvegit.github.io/
 title: Learning Curve
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
